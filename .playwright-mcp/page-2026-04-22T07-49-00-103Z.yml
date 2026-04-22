@@ -1,0 +1,72 @@
+- generic [ref=e392]:
+  - generic [ref=e393]:
+    - generic [ref=e394]:
+      - generic [ref=e395]:
+        - generic [ref=e396]:
+          - button "Open Menu" [ref=e397] [cursor=pointer]
+          - img "Open Menu" [ref=e398]
+        - generic [ref=e400]: Swag Labs
+        - generic [ref=e403]: "4"
+      - generic [ref=e405]: "Checkout: Overview"
+    - generic [ref=e407]:
+      - generic [ref=e408]:
+        - generic [ref=e409]: QTY
+        - generic [ref=e410]: Description
+        - generic [ref=e411]:
+          - generic [ref=e412]: "1"
+          - generic [ref=e413]:
+            - link "Sauce Labs Backpack" [ref=e414] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e415]: Sauce Labs Backpack
+            - generic [ref=e416]: carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.
+            - generic [ref=e418]: $29.99
+        - generic [ref=e419]:
+          - generic [ref=e420]: "1"
+          - generic [ref=e421]:
+            - link "Sauce Labs Onesie" [ref=e422] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e423]: Sauce Labs Onesie
+            - generic [ref=e424]: Rib snap infant onesie for the junior automation engineer in development. Reinforced 3-snap bottom closure, two-needle hemmed sleeved and bottom won't unravel.
+            - generic [ref=e426]: $7.99
+        - generic [ref=e427]:
+          - generic [ref=e428]: "1"
+          - generic [ref=e429]:
+            - link "Sauce Labs Bike Light" [ref=e430] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e431]: Sauce Labs Bike Light
+            - generic [ref=e432]: A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.
+            - generic [ref=e434]: $9.99
+        - generic [ref=e435]:
+          - generic [ref=e436]: "1"
+          - generic [ref=e437]:
+            - link "Sauce Labs Fleece Jacket" [ref=e438] [cursor=pointer]:
+              - /url: "#"
+              - generic [ref=e439]: Sauce Labs Fleece Jacket
+            - generic [ref=e440]: It's not every day that you come across a midweight quarter-zip fleece jacket capable of handling everything from a relaxing day outdoors to a busy day at the office.
+            - generic [ref=e442]: $49.99
+      - generic [ref=e443]:
+        - generic [ref=e444]: "Payment Information:"
+        - generic [ref=e445]: "SauceCard #31337"
+        - generic [ref=e446]: "Shipping Information:"
+        - generic [ref=e447]: Free Pony Express Delivery!
+        - generic [ref=e448]: Price Total
+        - generic [ref=e449]: "Item total: $97.96000000000001"
+        - generic [ref=e450]: "Tax: $7.84"
+        - generic [ref=e451]: "Total: $105.80"
+        - generic [ref=e452]:
+          - button "Go back Cancel" [ref=e453] [cursor=pointer]:
+            - img "Go back" [ref=e454]
+            - text: Cancel
+          - button "Finish" [ref=e455] [cursor=pointer]
+  - contentinfo [ref=e456]:
+    - list [ref=e457]:
+      - listitem [ref=e458]:
+        - link "Twitter" [ref=e459] [cursor=pointer]:
+          - /url: https://twitter.com/saucelabs
+      - listitem [ref=e460]:
+        - link "Facebook" [ref=e461] [cursor=pointer]:
+          - /url: https://www.facebook.com/saucelabs
+      - listitem [ref=e462]:
+        - link "LinkedIn" [ref=e463] [cursor=pointer]:
+          - /url: https://www.linkedin.com/company/sauce-labs/
+    - generic [ref=e464]: © 2026 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy
